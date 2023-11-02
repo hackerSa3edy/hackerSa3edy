@@ -82,7 +82,7 @@
 
 
 ## 🔗 More About Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#SOON)
 [![Resume](https://img.shields.io/badge/Resume-1F425D?style=for-the-badge)](https://drive.google.com/file/d/1J8_IDoVvOSbI5kp97lKF6pt2QZbfDepH/view?usp=drive_link)
 
 
