@@ -82,7 +82,7 @@
 
 
 ## 🔗 More About Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#SOON)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hacker-sa3edy.notion.site/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=4)
 [![Resume](https://img.shields.io/badge/Resume-1F425D?style=for-the-badge)](https://drive.google.com/file/d/1J8_IDoVvOSbI5kp97lKF6pt2QZbfDepH/view?usp=drive_link)
 
 
@@ -98,7 +98,7 @@ Here are some of the projects I'm proud of:
 
 
 ## 📚 Latest Blog Posts
-- [printf: The Art of Crafting a Custom Function in C Programming](#SOON)
+- [printf: The Art of Crafting a Custom Function in C Programming](https://www.notion.so/hacker-sa3edy/printf-The-Art-of-Crafting-a-Custom-Function-in-C-Programming-b9e1c398f3f84f3b991af9311ddb758f?pvs=4)
 
 ---
 <h3 align="center">Thanks for visiting my profile! 😊</h3>
