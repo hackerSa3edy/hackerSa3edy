@@ -61,7 +61,6 @@
 - ### Web Development Technologies/Frameworks
 	![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 	![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-	![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 	![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 	![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 	![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -98,9 +97,9 @@ Here are some of the projects I'm proud of:
 
 
 ## 📚 Latest Blog Posts
-- [printf: The Art of Crafting a Custom Function in C Programming](https://www.notion.so/hacker-sa3edy/printf-The-Art-of-Crafting-a-Custom-Function-in-C-Programming-b9e1c398f3f84f3b991af9311ddb758f?pvs=4)
+- [printf: The Art of Crafting a Custom Function in C Programming](https://github.com/hackerSa3edy/blog/tree/master/printf:%20The%20Art%20of%20Crafting%20a%20Custom%20Function%20in%20C%20Programming)
 
 ---
 <h3 align="center">Thanks for visiting my profile! 😊</h3>
 
-###### last update: November 2, 2023
+###### last update: November 25, 2023
