@@ -28,7 +28,7 @@ async function generateMarkdown() {
 
   const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](${linkedinUrl})`;
 
-  const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
+  const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@HackerSa3edy-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
 
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
@@ -57,42 +57,25 @@ async function generateMarkdown() {
 
   ## 🛠 Skills
   - ### Core Skills
-    ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-1F425D?style=for-the-badge&logoColor=white)
-    ![Web Penetration Testing](https://img.shields.io/badge/Web_Penetration_Testing-1F425D?style=for-the-badge&logoColor=white)
-    ![Network Penetration Testing](https://img.shields.io/badge/Network_Penetration_Testing-1F425D?style=for-the-badge&logoColor=white)
-    ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-1F425D?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Penetration_Testing-1F425D?style=for-the-badge&amp;logoColor=white" alt="Penetration Testing"> <img src="https://img.shields.io/badge/Web_Penetration_Testing-1F425D?style=for-the-badge&amp;logoColor=white" alt="Web Penetration Testing"> <img src="https://img.shields.io/badge/Network_Penetration_Testing-1F425D?style=for-the-badge&amp;logoColor=white" alt="Network Penetration Testing"> <img src="https://img.shields.io/badge/Vulnerability_Assessment-1F425D?style=for-the-badge" alt="Vulnerability Assessment">
 
 
   - ### Programming Languages
-    ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 
 
 
   - ### Web Development Technologies/Frameworks
-    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 
 
 
   - ### Tools & Software
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Metasploit](https://img.shields.io/badge/Metasploit-239120?style=for-the-badge&logo=metasploit&logoColor=white)
-    ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=burpsuite&logoColor=white)
-    ![OWASP ZAP Proxy](https://img.shields.io/badge/OWASP_ZAP_Proxy-404D59?style=for-the-badge&logo=owasp&logoColor=white)
-    ![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">  <img src="https://img.shields.io/badge/Metasploit-239120?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit"> <img src="https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">  <img src="https://img.shields.io/badge/OWASP_ZAP_Proxy-404D59?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP Proxy">  <img src="https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&amp;logo=acunetix&amp;logoColor=white" alt="Acunetix">
 
   ---\n
 
-  ## Highlights
+  ## Highlights ✨
 
   <details>\n
   <summary>OSS Projects</summary>\n
@@ -111,9 +94,8 @@ async function generateMarkdown() {
   ---\n
 
   <div align="center">\n
-    <a href="https://hacker-sa3edy.notion.site/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>\n
-
-    <a href="https://drive.google.com/file/d/1J8_IDoVvOSbI5kp97lKF6pt2QZbfDepH/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-1F425D?style=for-the-badge" /></a>\n
+   <a href="https://hacker-sa3edy.notion.site/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+   <a href="https://drive.google.com/file/d/1J8_IDoVvOSbI5kp97lKF6pt2QZbfDepH/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-1F425D?style=for-the-badge" /></a>\n
   </div>`;
 
   const result = md.render(markdownText);
