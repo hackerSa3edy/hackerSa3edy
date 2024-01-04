@@ -17,6 +17,7 @@ const ossProjectRepos = [
 
 const githubUsername = "hackerSa3edy";
 const websiteUrl = "https://hacker-sa3edy.notion.site/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=4";
+const resumeUrl = "https://drive.google.com/file/d/1u0IQdmhIkFg9gF1swJklvBkGsbz2W8lU/view?usp=drive_link";
 const blogUrl = "https://medium.com/@HackerSa3edy";
 const twitterUrl = "https://twitter.com/HackerSa3edy";
 const linkedinUrl = "https://www.linkedin.com/in/abdelrahmanm0";
@@ -94,8 +95,8 @@ async function generateMarkdown() {
   ---\n
 
   <div align="center">\n
-   <a href="https://hacker-sa3edy.notion.site/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-   <a href="https://drive.google.com/file/d/1J8_IDoVvOSbI5kp97lKF6pt2QZbfDepH/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-1F425D?style=for-the-badge" /></a>\n
+   <a href="${websiteUrl}" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+   <a href="${resumeUrl}" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-1F425D?style=for-the-badge" /></a>\n
   </div>`;
 
   const result = md.render(markdownText);
