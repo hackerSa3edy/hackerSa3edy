@@ -10,6 +10,7 @@ import { fetchGitHubData } from "./fetchGitHubData";
 const blogFeedUrl = "https://medium.com/feed/@HackerSa3edy";
 
 const ossProjectRepos = [
+  "AirBnB_clone",
   "hackerSa3edy",
   "simple_shell",
   "printf"
